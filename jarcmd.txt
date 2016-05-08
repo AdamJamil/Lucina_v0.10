@@ -1,0 +1,1 @@
+jar cvfm LucinaJar.jar LucinaManifest.txt *.class
